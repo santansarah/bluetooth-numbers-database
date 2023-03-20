@@ -15,6 +15,6 @@
     { "name": "Environmental Sensing Trigger Setting", "identifier": "org.bluetooth.descriptor.environmental_sensing_trigger_setting", "uuid": "290D", "source": "gss"},
     { "name": "Time Trigger Setting", "identifier": "org.bluetooth.descriptor.time_trigger_setting", "uuid": "290E", "source": "gss"},
     { "name": "Complete BR-EDR Transport Block Data", "identifier": "org.bluetooth.descriptor.complete_bredr_transport_block_data", "uuid": "290F", "source": "gss"},
-    { "name": "Sarah Test 1", "identifier": "com.santansarah", "uuid": "290F", "source": "sarah"},
-    { "name": "Sarah Test 2", "identifier": "com.santansarah", "uuid": "300F", "source": "sarah"}
+    { "name": "Sarah Test 3", "identifier": "com.santansarah", "uuid": "320F", "source": "sarah"},
+    { "name": "Sarah Test 4", "identifier": "com.santansarah", "uuid": "330F", "source": "sarah"}
 ]
